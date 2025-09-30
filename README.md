@@ -19,43 +19,43 @@
 
 ## 📂 專案清單
 
-### 1. ⚖️ 法規檢索與諮詢 AI 助理(專題)  
+### 1. ⚖️ 法規檢索與諮詢 AI 助理(專題)(個人)  
 - **Repo**：[law-ai-assistant](https://github.com/fgx2060/linebot-law-rag.git)  
 - **簡介**：基於 **LINE Bot + AnythingLLM + Ollama** 的本地部署法規檢索與諮詢助理，支援自然語言查詢全國法規資料庫，回覆包含條號、段落與出處。
 
-### 2. 🤖 Python 機器人期末報告  
+### 2. 🤖 Python 機器人期末報告(團體)  
 - **Repo**：[python-chatbot-robot](https://github.com/fgx2060/python-robot-control.git)  
 - **簡介**：使用 Python 控制 mBot2 智慧機器人，整合感測器驅動與自動化行為。  
 
-### 3. 🧠 大型語言模型問答聊天機器人建構  
+### 3. 🧠 大型語言模型問答聊天機器人建構(個人)  
 - **Repo**：[llm-qa-chatbot](https://github.com/fgx2060/llm-qa-chatbot.git)  
 - **簡介**：基於 LLM 的 QA 聊天機器人，整合 LINE Bot，具多輪短期記憶、角色扮演、（可選）簡繁轉換。*（不含 RAG）*。  
 
-### 4. ⚡ 以效能為導向的客製化聊天機器人  
+### 4. ⚡ 以效能為導向的客製化聊天機器人(個人)  
 - **Repo**：[efficient-chatbot](https://github.com/fgx2060/performance-oriented-chatbot.git)  
 - **簡介**：LangChain + 向量檢索（RAG）+ LoRA/QLoRA，在資源受限（如 Colab CPU）下優化推論效能與回覆品質。  
 
-### 5. 🌱 環境感測器與 LINE Bot 輔助通報系統  
+### 5. 🌱 環境感測器與 LINE Bot 輔助通報系統(個人)  
 - **Repo**：[iot-linebot-alert](https://github.com/fgx2060/sensor-data-linebot.git)  
 - **簡介**：Arduino 端蒐集環境數據（.ino），Python 端接收與判斷，透過 LINE Bot 即時推播警示（含 AI 解釋模式）。 
 
-### 6. 💰 個人財務管理系統  
+### 6. 💰 個人財務管理系統(團體)  
 - **Repo**：[personal-finance-system](https://github.com/fgx2060/personal-finance-system.git)  
 - **簡介**：Python Tkinter 桌面應用，提供收支記錄、每月儲蓄目標、月報建議與 Matplotlib 視覺化。（主程式 `15.py`）
 
-### 7. ☁️ GCP 上建立 LINE Bot 伺服器  
+### 7. ☁️ GCP 上建立 LINE Bot 伺服器(個人)  
 - **Repo**：[gcp-linebot-server](https://github.com/fgx2060/gcp-linebot-server.git)  
 - **簡介**：- **簡介**：在 GCP VM 部署 Flask + LINE Webhook，支援 ngrok/外部 IP 綁定與即時回覆。
 
-### 8. 🔬 雲端運算與邊緣運算應用（EfficientDet / LeNet / ResNet 合集）  
+### 8. 🔬 雲端運算與邊緣運算應用（EfficientDet / LeNet / ResNet 合集）(個人)  
 - **Repo**：[cloud-edge-inference](https://github.com/fgx2060/edge-model-inference.git)  
 - **簡介**：影像分類與目標偵測模型的訓練與 Edge 部署流程彙整（含對照與簡易 Benchmark）。 
 
-### 9. 🎨 使用者經驗設計 - 介面易用性分析  
+### 9. 🎨 使用者經驗設計 - 介面易用性分析(團體)  
 - **Repo**：[ux-usability-analysis](https://github.com/fgx2060/ux-usability-analysis.git)  
 - **簡介**：以 SUS、任務滿意度與 Product Reaction Card 評估介面易用性，彙整改進清單（顯示密碼、下載按鈕、日期跳轉）。
 
-### 10. 🤖 自建 NLP 聊天機器人（LINE + GCP 部署）  
+### 10. 🤖 自建 NLP 聊天機器人(LINE + GCP 部署)(個人)  
 - **Repo**：[nlp-linebot-gcp](https://github.com/fgx2060/nlp-linebot-gcp.git)  
 - **簡介**：自建 GPT 模型工作流（資料清理 → 詞典 → 訓練 → 測試 → LINE/GCP 部署）。`notebooks/change.ipynb` 用於簡體轉繁體與前期資料處理。
 
